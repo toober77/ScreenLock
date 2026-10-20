@@ -9,7 +9,7 @@
 
 ## 安裝
 
-1. 到 [Releases](https://github.com/toober77/ScreenLock/releases/latest) 下載 `ScreenLock-v1.1.1.apk`。
+1. 到 [Releases](https://github.com/toober77/ScreenLock/releases/latest) 下載 `ScreenLock-v1.1.2.apk`。
 2. 在手機上開啟 APK，若出現提示，允許「安裝不明應用程式」。
 3. 安裝完成後桌面會出現「一鍵鎖屏」圖示。
 

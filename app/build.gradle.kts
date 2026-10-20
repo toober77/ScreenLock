@@ -14,8 +14,8 @@ android {
         applicationId = "com.github.toober77.screenlock"
         minSdk = 28
         targetSdk = 35
-        versionCode = 3
-        versionName = "1.1.1"
+        versionCode = 4
+        versionName = "1.1.2"
     }
     signingConfigs {
         create("release") {
