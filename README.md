@@ -9,7 +9,7 @@
 
 ## 安裝
 
-1. 到 [Releases](https://github.com/toober77/ScreenLock/releases/latest) 下載 `ScreenLock-v1.0.0.apk`。
+1. 到 [Releases](https://github.com/toober77/ScreenLock/releases/latest) 下載 `ScreenLock-v1.1.0.apk`。
 2. 在手機上開啟 APK，若出現提示，允許「安裝不明應用程式」。
 3. 安裝完成後桌面會出現「一鍵鎖屏」圖示。
 
@@ -25,6 +25,12 @@
 ## 快速設定磚塊
 
 下拉通知列兩次 → 點編輯（鉛筆圖示）→ 把「鎖定螢幕」拖到磚塊區，之後點它就能鎖屏。
+
+## 桌面小工具
+
+1. 在桌面空白處長按 → 選「小工具」（或「Widgets」）。
+2. 找到「一鍵鎖屏」，把小工具拖到桌面（預設 1×1，可長按後拖拉邊框調整大小，中間電源圖示大小固定）。
+3. 點小工具即鎖屏；若尚未開啟無障礙服務，會跳出說明並帶你到設定頁。
 
 ## 自行編譯
 

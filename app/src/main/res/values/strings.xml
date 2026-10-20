@@ -9,4 +9,6 @@
     <string name="go_settings">前往設定</string>
     <string name="cancel">取消</string>
     <string name="not_enabled_toast">請先開啟「一鍵鎖屏」的無障礙服務</string>
+    <string name="widget_label">一鍵鎖屏</string>
+    <string name="widget_description">點一下即關閉螢幕並上鎖</string>
 </resources>
