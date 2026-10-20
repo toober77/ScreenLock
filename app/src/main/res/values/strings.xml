@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">一鍵鎖屏</string>
+    <string name="service_label">一鍵鎖屏</string>
+    <string name="tile_label">鎖定螢幕</string>
+    <string name="service_description">此服務只用來在你點擊「一鍵鎖屏」圖示或快速設定磚塊時關閉螢幕並上鎖（等同按電源鍵，仍可用指紋／臉部解鎖）。不會讀取、收集或傳送任何螢幕內容或個人資料。</string>
+    <string name="dialog_title">需要開啟無障礙權限</string>
+    <string name="dialog_message">「一鍵鎖屏」需要透過無障礙服務來關閉螢幕並上鎖，這樣上鎖後仍可使用指紋解鎖。\n\n請在接下來的畫面中：\n1. 找到「已下載的應用程式」（或「已安裝的服務」）\n2. 點選「一鍵鎖屏」\n3. 開啟開關並按「允許」\n\n完成後再點一次桌面圖示即可鎖屏。</string>
+    <string name="go_settings">前往設定</string>
+    <string name="cancel">取消</string>
+    <string name="not_enabled_toast">請先開啟「一鍵鎖屏」的無障礙服務</string>
+</resources>
